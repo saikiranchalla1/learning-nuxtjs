@@ -1,0 +1,4 @@
+Vue Meta package: https://github.com/declandewet/vue-meta
+Detailed documentation of all settings: https://nuxtjs.org/api/
+Detailed documentation of environment variables: https://nuxtjs.org/api/configuration-env
+All possible settings/configurations router: https://nuxtjs.org/api/configuration-router

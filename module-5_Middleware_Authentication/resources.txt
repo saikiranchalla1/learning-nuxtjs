@@ -1,0 +1,1 @@
+Middleware docs: https://nuxtjs.org/guide/routing#middleware

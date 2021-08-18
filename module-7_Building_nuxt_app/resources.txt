@@ -1,0 +1,1 @@
+Official deployment docs: https://nuxtjs.org/guide/commands

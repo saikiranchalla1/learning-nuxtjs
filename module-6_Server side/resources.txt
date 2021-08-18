@@ -1,0 +1,1 @@
+Example on session-based auth: https://nuxtjs.org/examples/auth-routes
